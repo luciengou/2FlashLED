@@ -53,7 +53,7 @@ typedef unsigned long   uint32_t;
 
 #define Flash_Time_Long	 200
 //#define Flash_Time_Next	 268
-#define Flash_Time_Next	 300
+#define Flash_Time_Next	 500
 
 //#define	Hardware_Delay
 

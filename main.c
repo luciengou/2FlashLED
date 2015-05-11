@@ -189,7 +189,7 @@ while(1)
 			{								//1.25ms=63+16 at 25% , 1.75ms=63+48 at 75%
 				Flash_Mode = 99 ;
 			}
-			//__delay_ms( 12 );
+			__delay_ms( 12 );
 		}
 	}	
 	
